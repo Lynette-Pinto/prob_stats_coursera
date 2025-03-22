@@ -1,2 +1,2 @@
-# prob_stats_coursera
+# Probablity and Statistics
 Its a markdown file for the repo.
